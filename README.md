@@ -1,5 +1,8 @@
-# Project:
-Evaluation of Machine learning algortihms for classification
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6504555.svg)](https://doi.org/10.5281/zenodo.6504555)
+
+
+
+# Project: Evaluation of Machine learning algortihms for classification
 
 ### Prerequisites
 
