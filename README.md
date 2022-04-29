@@ -38,10 +38,8 @@ To run this project, you will need to run the jupyter notebook, each notebook ca
 
 ## License
 
-Shield: [![CC0-1.0][cc-by-shield]][cc-by]
-
 This work is licensed under a [Creative Commons Zero v1.0 Universal
-License][cc-by].
+License].
 
 [CC0-1.0](./LICENSE).
 
