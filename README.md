@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6505012.svg)](https://doi.org/10.5281/zenodo.6505012)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6511888.svg)](https://doi.org/10.5281/zenodo.6511888)
 
 
 # Project: Evaluation of Machine learning algortihms for classification
