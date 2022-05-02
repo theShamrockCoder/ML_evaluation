@@ -16,6 +16,7 @@ In addition all dependacies available in `requiremnts.txt` or `.yaml` need to be
 ## Data
 
 All orignal data can be found in `data/`, each dataset/s can be found in a folder by the same name, this convention is fillowed accross all directories.
+An overview of the data processing data flow can be found in `DFD_MAE.drawio.png`.
 
 
 ## Plots
